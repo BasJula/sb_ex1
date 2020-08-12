@@ -50,6 +50,7 @@ public class MainApp {
         binaryIntMaxVal();
         System.out.println(78217821);
 
+
     }
 }
 
